@@ -23,3 +23,8 @@ NSU | CSE🎓  <br>Aspiring Full Stack Developer 💻  <br><br>Tech Stack:  <br>
 [![](https://komarev.com/ghpvc/?username=ImAd1tya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImAd1tya/ImAd1tya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImAd1tya/ImAd1tya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ImAd1tya/ImAd1tya/output/github-snake.svg" />
+</picture>
